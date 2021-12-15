@@ -2,7 +2,7 @@
 
 This is a group project for physics-based-simulation course at ETH Zurich. In the group project, a CG simulation using taichi framework is recommended. For the ease of rendering, we turn to the coding block inside Blender. Thus, this simulation can only be played with the file 28_pbd_hair_code.blend. The file 28_pbd_hair_code.py is only for display. 
 
-The chosen topic is hair simulation with specific methods of:
+The chosen topic is hair simulation with a combination of methods of:
 1. Position-based-dynamics(PBD)
 2. Dynamic-Follow-The-Leader(DFTL)
 3. Volumetric representation for hair-hair interaction
