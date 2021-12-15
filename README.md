@@ -18,3 +18,7 @@ https://github.com/taichi-dev/taichi_blend
 2. Go to the ``Scripting`` window, press the play button to run the script. Blender may stuck a while for the first launch.
 
 3. Go back to ``Layout`` window. Press SPACE and you should see hair moving. The animation may suffer from low FPS. 
+
+## Result
+
+1. Short hair with global stiffness = 0.001:  ![grab-landing-page](https://github.com/winnie1312/grab/blob/master/grab-landingpage-winnie.gif) ezgif-7-182873e7ee3d.gif
