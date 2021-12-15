@@ -1,12 +1,12 @@
 # 28_PBD_Hair
 
-The simulation can only be played with the file 28_pbd_hair_code.blend. The file 28_pbd_hair_code.py is only for display. 
+This is a group project for physics-based-simulation course at ETH Zurich. In the group project, a CG simulation using taichi framework is recommended. For the ease of rendering, we turn to the coding block inside Blender. Thus, this simulation can only be played with the file 28_pbd_hair_code.blend. The file 28_pbd_hair_code.py is only for display. 
 
 ## How to install
 
-1. Install Blender 
+1. Install Blender 2.93.5
 
-2. Intall Taichi Blender Integration 
+2. Intall Taichi Blender Integration. Link can be found below:
 
 https://github.com/taichi-dev/taichi_blend
 
@@ -17,7 +17,7 @@ https://github.com/taichi-dev/taichi_blend
 
 2. Go to the ``Scripting`` window, press the play button to run the script. Blender may stuck a while for the first launch.
 
-3. Go back to ``Layout`` window. Press SPACE and you should see hair moving. The animation may suffer from low FPS. 
+3. Go back to ``Layout`` window. Press SPACE and you should see hair moving. The animation may suffer from low FPS on the first time running. 
 
 ## Result
 
