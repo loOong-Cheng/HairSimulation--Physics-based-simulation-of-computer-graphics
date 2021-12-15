@@ -21,4 +21,7 @@ https://github.com/taichi-dev/taichi_blend
 
 ## Result
 
-1. Short hair with global stiffness = 0.001:  ![grab-landing-page](https://github.com/loOong-Cheng/HairSimulation--Physics-based-simulation-of-computer-graphics/blob/main/ezgif-7-182873e7ee3d.gif)
+1. Short hair with global stiffness = 0.001:  
+![grab-landing-page](https://github.com/loOong-Cheng/HairSimulation--Physics-based-simulation-of-computer-graphics/blob/main/ezgif-7-182873e7ee3d.gif)
+2. Long hair with global stiffness = 0.0005:
+![grab-landing-page](https://github.com/loOong-Cheng/HairSimulation--Physics-based-simulation-of-computer-graphics/blob/main/ezgif-2-974bfea1b818.gif)
